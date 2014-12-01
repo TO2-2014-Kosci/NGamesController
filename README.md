@@ -1,2 +1,2 @@
-NGamesController
+NGameController
 ================
