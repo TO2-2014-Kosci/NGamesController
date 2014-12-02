@@ -1,7 +1,11 @@
 package to2.dice.NGamesController;
 
 import to2.dice.controllers.GameController;
+<<<<<<< HEAD
 import to2.dice.controllers.ngames.CountingStrategy;
+=======
+import to2.dice.NGamesController.CountingStrategy;
+>>>>>>> origin/master
 import to2.dice.game.GameInfo;
 import to2.dice.game.GameSettings;
 import to2.dice.game.NGameState;
