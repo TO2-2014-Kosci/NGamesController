@@ -19,7 +19,7 @@ public class Timer extends Thread {
 
         if(!isInterrupted()) {
             if(timerLock.tryLock()){
-
+                /* TODO: messaging && locking with player action */
             }
         }
     }

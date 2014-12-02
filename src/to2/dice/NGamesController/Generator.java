@@ -20,8 +20,6 @@ public class Generator {
         for(int i = 0; i < 5; i++ ){
             sumToThrow += Math.abs((new Integer(random.nextInt()) % 6)) + 1;
         }
-
-        return;
     }
 
     public void generateProduct(){
@@ -30,8 +28,6 @@ public class Generator {
         for(int i = 0 ; i < 5; i++ ){
             productToThrow *= Math.abs(new Integer(random.nextInt() % 6)) + 1;
         }
-
-        return;
     }
 
     public int diceThrow(){
