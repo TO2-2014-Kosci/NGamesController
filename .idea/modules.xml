@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NController.iml" filepath="$PROJECT_DIR$/NController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NGamesController.iml" filepath="$PROJECT_DIR$/NGamesController.iml" />
     </modules>
   </component>
 </project>
-
