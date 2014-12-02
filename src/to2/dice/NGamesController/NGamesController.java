@@ -1,8 +1,6 @@
 package to2.dice.NGamesController;
 
 import to2.dice.controllers.GameController;
-import to2.dice.NGamesController.CountingStrategy;
-import to2.dice.game.GameInfo;
 import to2.dice.game.GameSettings;
 import to2.dice.game.NGameState;
 import to2.dice.game.Player;
